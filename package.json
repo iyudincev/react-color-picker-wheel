@@ -47,7 +47,7 @@
   "scripts": {
     "build": "webpack",
     "lint": "eslint src",
-    "prepare": "npm build"
+    "prepare": "npm run build"
   },
   "browserslist": {
     "production": [
